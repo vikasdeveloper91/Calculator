@@ -1,0 +1,20 @@
+.text-center
+{
+    text-align: center;
+}
+.flex{
+    display: flex;
+    width: fit-content;
+    margin: auto;
+    background-color: pink;
+    padding:4px;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.row{
+    margin:4px 2px;
+}

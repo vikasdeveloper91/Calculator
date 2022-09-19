@@ -1,0 +1,15 @@
+.button{
+    padding:7px 20px;
+    width:51px;
+    margin:2px 2px;
+    border:2px solid black;
+    border-radius: 8px;
+    cursor:pointer;
+}
+input[type="text" i] {
+    font-size: 13px;
+    font-weight: bold;
+    padding: 9px 27px;
+    border: 2px solid black;
+    border-radius: 6px;
+}
